@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 512 512" xml:space="preserve">
+<polygon style="fill:#FFFFFF;" points="16,120 240,120 240,216 352,216 352,296 272,296 16,296 "/>
+<path style="fill:#67C18C;" d="M168,208c0,35.36-28.64,64-64,64c-17.68,0-33.68-7.2-45.28-18.72l22.64-22.64
+	C87.2,236.4,95.2,240,104,240c17.68,0,32-14.32,32-32H168z"/>
+<path style="fill:#53B7E8;" d="M104,144v32c-17.68,0-32,14.32-32,32c0,8.8,3.6,16.8,9.36,22.64l-22.64,22.64
+	C47.2,241.68,40,225.68,40,208C40,172.64,68.64,144,104,144z"/>
+<path style="fill:#FFD768;" d="M168,208h-32c0-17.68-14.32-32-32-32v-32C139.36,144,168,172.64,168,208z"/>
+<g>
+	<rect x="256" y="56" style="fill:#FFFFFF;" width="208" height="144"/>
+	<polygon style="fill:#FFFFFF;" points="233.048,424 134.952,424 144,410.424 144,376 224,376 224,410.424 	"/>
+	<polygon style="fill:#FFFFFF;" points="240,360 224,360 144,360 128,360 16,360 16,312 272,312 272,360 	"/>
+	<rect x="288" y="312" style="fill:#FFFFFF;" width="208" height="144"/>
+</g>
+<g>
+	<rect x="184" y="312" style="fill:#DCDDDE;" width="88" height="48"/>
+	<path style="fill:#DCDDDE;" d="M248,432l-16-24v-40h-48v8h-40v8h24c8.84,0,16,7.16,16,16v32H248z"/>
+</g>
+<rect x="280" y="304" style="fill:#F37053;" width="224" height="160"/>
+<polygon style="fill:#53B7E8;" points="440,88 440,176 288,176 320,144 360,144 376,112 416,112 "/>
+<g>
+	<rect x="112" y="40" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="144" y="40" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="176" y="40" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="208" y="40" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="464" y="232" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="464" y="264" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="80" y="40" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="80" y="72" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="176" y="328" style="fill:#0C3847;" width="16" height="16"/>
+	<path style="fill:#0C3847;" d="M368,296v-80h112V40H240v64H0v192v16v64h128v29.576L105.048,440h157.896L240,405.576V376h32v96h240
+		V296H368z M256,56h208v144H256V56z M16,120h224v40h-40v16h40v16h-40v16h40v8h112v80h-80H16V120z M233.048,424h-98.096L144,410.424
+		V376h80v34.424L233.048,424z M240,360h-16h-80h-16H16v-48h256v48H240z M496,456H288V312h208V456z"/>
+</g>
+<g>
+	<rect x="400" y="344" style="fill:#FFFFFF;" width="16" height="96"/>
+	<rect x="464" y="328" style="fill:#FFFFFF;" width="16" height="112"/>
+	<rect x="432" y="376" style="fill:#FFFFFF;" width="16" height="64"/>
+	<rect x="368" y="376" style="fill:#FFFFFF;" width="16" height="64"/>
+	<rect x="336" y="408" style="fill:#FFFFFF;" width="16" height="32"/>
+	<rect x="304" y="392" style="fill:#FFFFFF;" width="16" height="48"/>
+</g>
+<g>
+	<path style="fill:#0C3847;" d="M104,136c-39.696,0-72,32.296-72,72s32.304,72,72,72s72-32.296,72-72S143.696,136,104,136z
+		 M159.36,200h-16.168C140,184.352,127.648,172,112,168.808V152.64C136.472,156.168,155.832,175.528,159.36,200z M80,208
+		c0-13.232,10.768-24,24-24s24,10.768,24,24s-10.768,24-24,24S80,221.232,80,208z M96,152.64v16.168
+		c-18.232,3.72-32,19.88-32,39.192c0,8.136,2.472,15.696,6.664,22.024l-11.448,11.448C52.208,232.12,48,220.56,48,208
+		C48,179.848,68.904,156.544,96,152.64z M104,264c-12.56,0-24.12-4.208-33.472-11.216l11.448-11.448
+		C88.304,245.528,95.864,248,104,248c19.312,0,35.472-13.768,39.192-32h16.168C155.456,243.088,132.152,264,104,264z"/>
+	<rect x="200" y="224" style="fill:#0C3847;" width="104" height="16"/>
+	<rect x="200" y="256" style="fill:#0C3847;" width="56" height="16"/>
+	<polygon style="fill:#0C3847;" points="315.312,152 356.944,152 372.944,120 411.312,120 443.312,88 432,76.688 404.688,104 
+		363.056,104 347.056,136 308.688,136 288,156.688 288,72 272,72 272,184 448,184 448,168 299.312,168 	"/>
+</g>
+</svg>
