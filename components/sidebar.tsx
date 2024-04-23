@@ -66,6 +66,11 @@ export const Sidebar = ({ className }: Props) => {
           href="/stock_prediction"
           iconSrc="/machinelearning.svg"
         />
+          <SidebarItem 
+          label="about" 
+          href="/about"
+          iconSrc="/abouts.svg"
+        />
       </div>
       <div className="p-4">
         <ClerkLoading>
